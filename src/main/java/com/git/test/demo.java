@@ -5,6 +5,6 @@ public class demo {
         System.out.println("==========");
         System.out.println("---GIT---");
         System.out.println("!!!!!!!!!!");
-        System.out.println("branch test1");
+        System.out.println("branch test");
     }
 }
